@@ -15,7 +15,7 @@
 
 ```mermaid
 graph LR
-    A[ユーザーの質問] --> B[Azure AI Search]
+    A[ユーザーの質問] --> B[AI Search]
     B --> C[検索結果]
     C --> D[OpenAI]
     D --> E[最終回答]
