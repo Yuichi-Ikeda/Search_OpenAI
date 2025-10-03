@@ -1,0 +1,4 @@
+openai
+tiktoken
+python-dotenv
+azure-search-documents==11.4.0b6
